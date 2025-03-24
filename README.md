@@ -2,7 +2,7 @@
 
 ----------
 
-**Các mạng xã hội khác**
+**Contact me...**
 
 [![Static Badge](https://img.shields.io/badge/Nghi%C3%AAm%20Tu%E1%BA%A5n%20D%C5%A9ng-white?logo=Facebook&logoColor=blue&label=Facebook&labelColor=white&color=blue)
 ](https://www.facebook.com/tuandung.41209/)
@@ -16,7 +16,7 @@
 [![Static Badge](https://img.shields.io/badge/Nghi%C3%AAm%20Tu%E1%BA%A5n%20D%C5%A9ng-blue?logo=LinkedIn&label=LinkedIn&labelColor=blue&color=white)
 ](https://www.linkedin.com/in/tu%E1%BA%A5n-d%C5%A9ng-nghi%C3%AAm-583799323/)
 
-Số lượng follower: ![Visitor Count](https://profile-counter.glitch.me/nghtudung/count.svg)
+Followers count: ![Visitor Count](https://profile-counter.glitch.me/nghtudung/count.svg)
 
 ----------
 

@@ -7,7 +7,7 @@
 [![Static Badge](https://img.shields.io/badge/Nghi%C3%AAm%20Tu%E1%BA%A5n%20D%C5%A9ng-white?logo=Facebook&logoColor=blue&label=Facebook&labelColor=white&color=blue)
 ](https://www.facebook.com/tuandung.41209/)
 [![Static Badge](https://img.shields.io/badge/Instagram-tuandung.2027-pink?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Ftuandung.2027%2F)](https://www.instagram.com/tuandung.2027/)
-[![Static Badge](https://img.shields.io/badge/codecrafters-K32NGHIEMDUNG-black?logo=github&link=https%3A%2F%2Fgithub.com%2FK32NGHIEMDUNG)
+[![Static Badge](https://img.shields.io/badge/VNOJ-K32NGHIEMDUNG-black?logo=codecrafters&link=https%3A%2F%2Fgithub.com%2FK32NGHIEMDUNG)
 ](https://oj.vnoi.info/user/K32NGHIEMDUNG)
 [![Static Badge](https://img.shields.io/badge/CodeForces-TUANDUNGK32CBN-purple?logo=codeforces&logoColor=red&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FTUANDUNGK32CBN)
 ](https://codeforces.com/profile/TUANDUNGK32CBN)

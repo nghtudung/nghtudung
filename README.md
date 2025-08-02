@@ -23,3 +23,7 @@ Followers count: ![Visitor Count](https://profile-counter.glitch.me/nghtudung/co
 FROM [GieJack™](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  WITH LOVE
 
  ![From GieJack™ with love](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FqcGNqY2Y0ODRjZHg1eGx0bXJlM25yajZ5Mjhnb3E0Zml2enZjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sgznUYfen8siS0fyNr/giphy.gif)
+
+----------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghtudung&layout=compact)
